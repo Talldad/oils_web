@@ -12,35 +12,38 @@ ATO Home
 
   * hydraulic oils
   * engine
-    transmission 
+    transmission &
     gear oils
-  * agricultural 
+  * agricultural &
     marine lubricants
   * industrial oils
-    machining coolants
+  * machining coolants
   * greases
-    specialty lubricants
+  * specialty lubricants
   * industrial solvents
 
 - Analyse
 
-  - oil testing services
+  * oil testing services
 
 - Pumping equipment
 
-  - pumps
-  - grease guns
-  - drum trolleys
+  * pumps
+  * grease guns
+  * drum trolleys
 
 - Help you clean up!
 
-  - spill kits
-    cleaning materials
+  * spill kits
+  * cleaning materials
 
-  - solvents
-    degreasers
+  * solvents
+  * degreasers
 
-  - used oil removal restoration or disposal (referral)
+  * used oil disposal (referral)
+   
+    + removal 
+    + restoration
 
 
 
