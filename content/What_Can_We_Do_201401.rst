@@ -1,26 +1,48 @@
+
+========
+ATO Home
+========
+
 ﻿What can we do for you?
+-----------------------
 
-All  Things Oil.
+**All Things Oil.**
 
-Supply
-hydraulic oils
-engine, transmission & gear oils
-agricultural & marine lubricants
-industrial oils
-machining coolants
-greases, specialty lubricants
-industrial solvents
+- Supply
 
-Analyse
-oil testing services
+  * hydraulic oils
+  * engine
+    transmission 
+    gear oils
+  * agricultural 
+    marine lubricants
+  * industrial oils
+    machining coolants
+  * greases
+    specialty lubricants
+  * industrial solvents
 
-Pumping equipment
-pumps, grease guns, drum trolleys
+- Analyse
 
-Help you clean up!
-spill kits, cleaning materials
-solvents, degreasers
-used oil removal restoration or disposal (referral)
+  - oil testing services
+
+- Pumping equipment
+
+  - pumps
+  - grease guns
+  - drum trolleys
+
+- Help you clean up!
+
+  - spill kits
+    cleaning materials
+
+  - solvents
+    degreasers
+
+  - used oil removal restoration or disposal (referral)
+
+
 
 Free delivery in the metropolitan area
 on all orders over $100
