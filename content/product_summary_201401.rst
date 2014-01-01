@@ -4,9 +4,11 @@ Product Summary
 
 Heavy Diesel Transport
 ----------------------
+
 ===========  =================================================  =============
 Application           Description / Details                        Product 
 ===========  =================================================  =============
+
 Engine Oils  Vehicles fitted with Euro 5 anti-pollution 
              equipment EGR/DPF or requiring Ad-Blue 
              (OEM approvals held)				15W40 CJ-4/SM
@@ -49,10 +51,12 @@ Grease	    Lithium Blue NLGI2					180Kg, 18Kg, 2.5Kg, 450gm
 
 Passenger/Light Diesel Transport
 --------------------------------
+
 ===========  =================================================  =============
 Application           Description / Details                        Product
 ===========  =================================================  =============
-             Vehicles fitted with Euro 5 anti-pollution 
+
+Euro 5       Vehicles fitted with Euro 5 anti-pollution 
              equipment (EGR/DPF or Ad-Blue) 			15W40 CJ-4/SM
              (OEM approvals available)
 
@@ -77,30 +81,51 @@ ATF	     Dexron II III VI	Ford 95LE			10W
 Gear Oils    Rear Axle GL5					75W90, 80W90, 85W140
 	     Limited Slip Diffs:				LS90, LS140
 
-Agricultural/Light Engines
-	Multi-Tractor/Agri-Trans
-			GL4	15W30
-				10W30
-	Farmall		Omni-Farm CE/SF	15W40
-	UTTO		Omni-Trans	10W30
-			Castrol Agri-Trans Plus	10W20
 
-Light Engines 	Mower Oil	Super 4 stroke SAE30
-	2-stroke		TS40 2-stroke JASO FB/TC	Synthetic FD/TE
-	Chain & Bar	ISO Grades 100, 150, 220
+Agricultural/Light Engines
+--------------------------
+
+===========  =================================================  =============
+Application           Description / Details                        Product
+===========  =================================================  =============
+
+Tractors     
+Engine Oil   Farmall/Omni-Farm 					CE/SF	15W40
+Transmission Omni-Trans	UTTO 						10W30
+	     Castrol Agri-Trans Plus					10W20
+
+Small Engine 4-stroke Omni-Lube BS-300 Super 				SAE30
+Mower Oil    2-stroke Omni-Twin TS40 				JASO    FB/TC	
+             Synthetic Omni-Syn 2-stroke 				FD/TE
+Chain & Bar  Omni-Bar ISO Grades 100, 150, 220
+
 
 Greases
-	Lithium Blue NLGI2		180Kg, 18Kg, 2.5Kg tub, 450gm cartridges
-	Lithium/Moly Black NLGI2		18Kg, 450gm cartridges
-	Liquid Grease EP-0, EP-00		18Kg, 2.5Kg tub
-	Nulon Teflon Grease NLGI2		450g cartridge
-	Talcor water-resistant grease		18Kg, 2.5Kg tub, 450g cartridges	
-Product Summary
+-------
 
-Hydraulics & Industrials
+===========  =================================================  =============
+Application           Description / Details                        Product
+===========  =================================================  =============
+
+Lithium Blue 180Kg, 18Kg, 2.5Kg, 450gm carts			NLGI2
+Lithium/Moly Black 	18Kg, 450gm carts			NLGI2
+Liquid Grease Self-levelling		18Kg, 2.5Kg		EP-0, EP-00
+Nulon Teflon Grease 			450g carts		NLGI2
+Talcor water-resistant grease		18Kg, 2.5Kg, 450g carts NLGI2
+Open Gear Lube	Talcor			18Kg, 2.5Kg		NLGI4
+
+
+
+Hydraulic & Industrial Oils
+---------------------------
+
+===========  =================================================  =============
+Application           Description / Details                        Product
+===========  =================================================  =============
 
 Hydraulic Oils		ISO Grades
-Omni-Flow (Group II)	220	100	68	46	32	22
+Omni-Flow Super 	220	100	68	46	32	22
+Omni-Flow Anti-Leak                     68      46      32   
 Omni-Flow Hi-Temp (HVI)		100	68	46
 Biodegradable				68	46
 Fire-resistant				68	46
@@ -108,17 +133,18 @@ Fire-resistant				68	46
 Industrial Gear Oil
 	Omni-Gear	680	460	320	220	150	100
 
-Heat Transfer Oil Omni-Therm		46	32
+Heat Transfer Omni-Therm		46	32
 	
-Compressor Oils  (Mineral & Synthetic)
-	Omni-Comp	32	46	68	100	150
-	Omni-Vac Vacuum Pump Oil			68	100	150
+Compressor Oil  (Mineral & Synthetic)
+	Omni-Comp	150	100	68	46	32
+
+Vacuum Pump Oil	Omni-Vac 150	100	68
 
 Machine & Circulating Oils
-	Omni-Lube	22	32	46	68	100	150	220	460
-	Pneumatic Tool Oil	15	22		68	100
+	Omni-Lube		460	320	220	150	100	 68	 46	32	22
+	Pneumatic Tool Oil	22	 15
 
-Food Grade White Oil	Omni-Pharm	15	 68
+Food Grade White Oil	Omni-Pharm	68	 15
 	
 Metal Working
 	Slideway	68	220	Honing		Standard/Heavy
