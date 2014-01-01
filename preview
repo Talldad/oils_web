@@ -1,1 +1,1 @@
-rst2man <$1 | nroff -man -Tascii | less
+rst2html <$1 | html2text | less
