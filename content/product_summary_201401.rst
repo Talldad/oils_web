@@ -88,8 +88,8 @@ Passenger/Light Diesel Transport
 +----------------+-----------------------------------------------------+-----------------+
 
 
-Agricultural/Light Engines
---------------------------
+Agricultural/Light Engines/Marine
+---------------------------------
 
 +----------------+-----------------------------------------------------+-----------------+
 |Application     |      Description / Details                          |      Product    |
@@ -105,6 +105,10 @@ Agricultural/Light Engines
 |                |Synthetic Omni-Syn 2-stroke 			       |FD/TE            |
 |Chain & Bar     |Omni-Bar ISO Grades 100, 150, 220                    |                 |
 +----------------+-----------------------------------------------------+-----------------+
+|Marine		 |        Water resistant lubricants & greases    Marine 2-stroke TCW-3  |
+| Applications   |        Synthetic Two-Stroke FD/TE					 |
+|		 |									 |
++----------------------------------------------------------------------------------------+
 
 Greases
 -------
@@ -149,7 +153,8 @@ Hydraulic & Industrial Oils
 |Machine &	 |Omni-Lube								 |
 |Circulating Oils|460	320	220	150	100	 68	 46	32	22	 |
 |Food Grade	 |									 | 
-| White Oil	 |Omni-Pharm	68	 15						 |
+| White Oil	 | Omni-Pharm	68	 15						 |
+| Stella Range	 | Please enquire							 |
 +----------------+-----------------------------------------------------------------------+
 	
 
@@ -171,93 +176,87 @@ Metal Working
 +----------------+-----------------------------------------------------------------------+
 
 
-Medical & Food Grade: Please enquire
 
-Marine Applications
-	Water resistant lubricants & greases 	Marine 2-stroke TCW-3
-	Synthetic Two-Stroke FD/TE
-
-Product Summary
 
 Corrosion Protection & Water Repellent Greases
+----------------------------------------------
 
-General Purpose		Soft Greases
-	Liquid			Liquid
-	Spray-on		Spray-on
++----------------+-----------------------------------------------------+-----------------+
+|Application     |      Description / Details                          |      Product    |
++================+=====================================================+=================+
+|General Purpose |Liquid & Spray-on                        				 |
+|Heavy Duty	 |aerosols, spray packs and bulk refills 1L, 5L, 20L			 |
+|Soft Greases	 |									 |
++----------------+-----------------------------------------------------------------------+
+|Timber Seal     |Regular & Plus grade				                         |
++----------------+-----------------------------------------------------------------------+
+|Release Agent   |Water Soluble Mould Release Oil convenient sizes                       |
++----------------+-----------------------------------------------------------------------+
+|Cleaner	 |									 |
+| / Degreaser    |Citra Force aerosols, spray packs and bulk refills 1L, 5L, 20L         |
++----------------+-----------------------------------------------------------------------+
 
-Heavy Duty			Timber Seal
-	Liquid			Regular
-	Spray-on		Plus
-
-Release Agent (Water soluble)		Cleaners/Degreasers
-	convenient sizes		Citra-Force
-
-Food Grade Type A
 
 
 Ancillaries, Equipment, Services
+--------------------------------
 
-Cleaning
-	TruckWash	Bulldog Gold 25ltr, 5ltr
-	Hand cleaner	Tango 15Kg, 4kg; Reach Lanolin based 4Kg
-
-Partswash
-	Degreaser	Applied All-Purpose (water based) 15ltr
-			Houghto-Clean 802SM (mineral/solvent based) 20ltr
-
-Oil & Grease Equipment
-	Pumps, Pipe & Hose
-	Oil containers
-	Grease guns - manual and air operated; 450gm & 400gm
-	Drum Trolleys
-
-Services
-	Oil Sample Testing
-	Coolant checking
-	Old Oil Rejuvenation & Restoration
-
-	Waste Oil Removal (referral)
-
-	Empty Drum Removal
-
-Product Summary
-
-Safety: Spill Absorption
-
-Absorbent Materials
-	Organic Floor Sweep
-	ZeoLite Granular
-	Polypropylene Pads
-
-Spill Kits
-	Portable/Transport Kits
-		General Purpose
-		Oil/Fuel Only
-		(also available on order: HazChem kits)
-
-	Factory Kits
-		Wheelie Bin General Purpose 120L & 240L
-		Oil/Fuel Only 120L & 240L
-
-
-
++----------------+-----------------------------------------------------+-----------------+
+|Application     |      Description / Details                          |      Product    |
++================+=====================================================+=================+
+|Cleaning	 |Truckwash: Bulldog Gold 5L, 25L                                        |
+|Hand Cleaner    |Tango with abrasive 4Kg, 15Kg			                         |
+|		 |Reach smooth with Lanolin 4Kg                                          |
++----------------+-----------------------------------------------------------------------+
+|Partswash       |Applied All-Purpose water based (Ripp Off) 15L		 	 |
+| / Degreaser    |Houghto-Clean 802SM (mineral/solvent based) 20L			 |
++----------------+-----------------------------------------------------------------------+
+|Release Agent   |Water Soluble Mould Release Oil convenient sizes                       |
++----------------+-----------------------------------------------------------------------+
+|Cleaner         |                                                                       |                                                                  |
+| / Degreaser    |Citra Force aerosols, spray packs and bulk refills 1L, 5L, 20L         |
++----------------+-----------------------------------------------------------------------+
+| Equipement	 |Pumps, Pipe & Hose							 |
+|		 |Oil containers							 |
+|		 |Grease guns - manual and air operated; 450gm & 400gm			 |
++----------------+-----------------------------------------------------------------------+
+| Services	 |Oil Sample Testing							 |
+|		 |Coolant checking							 |
+|		 |Waste Oil Removal (referral)						 |
+|		 |Used Oil Rejuvenation & Restoration					 |
+|		 |Empty Drum Removal (referral)						 |
++----------------+-----------------------------------------------------------------------+
+| Safety	 |Absorbent Materials							 |
+|Spill Absorption|       Organic Floor Sweep						 |
+|		 |       ZeoLite Granular						 |
+|		 |        Polypropylene Pads						 |
+|		 |Portable/Transport Spill Kits						 |
+|		 |        General Purpose						 |
+|		 |        Oil/Fuel Only							 |
+|		 |        (also available on order: HazChem kits)			 |
+|		 |Factory Spill Kits							 |
+|		 |        Wheelie Bin General Purpose 120L & 240L			 |
+|		 |        Oil/Fuel Only 120L & 240L					 |
++----------------+-----------------------------------------------------------------------+
 
 
 
 Solvents
+--------
 
-
-Thinners
-	General Purpose 
-	Solvent B / B1 / 55-13
-	Kerosene: Solvent & Narrow Cut
-	Iso-Propyl Alcohol (IPA)
-	Methylated Spirits (IMS 100)
-	Toluene
-	Acetone
-	WhiteSpirit
-
-Degreasers
-	Lanotec Citra Force
-	Houghton 802SM
-	Applied All Purpose, Tough Orange
++----------------+-----------------------------------------------------+-----------------+
+|Application     |      Description / Details                          |      Product    |
++================+=====================================================+=================+
+|Thinners	 |	General Purpose 						 |
+|		 |	Solvent B / B1 / 55-13						 |
+|		 |	Kerosene: Solvent & Narrow Cut					 |
+|		 |	Iso-Propyl Alcohol (IPA)					 |
+|		 |	Methylated Spirits (IMS 100)					 |
+|		 |	Toluene								 |
+|		 |	Acetone								 |
+|		 |	WhiteSpirit							 |
++----------------+-----------------------------------------------------------------------+
+|Degreasers 	 |	Lanotec Citra Force						 |
+|		 |	Houghton 802SM							 |
+|		 |	Applied All Purpose, Tough Orange				 |
++----------------+-----------------------------------------------------------------------+
