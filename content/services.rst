@@ -10,12 +10,12 @@ Ancillaries/Equipment/Services
 |		 |Reach smooth with Lanolin 4Kg                              |
 +----------------+-----------------------------------------------------------+
 | Partswash      |Applied All-Purpose water based (Ripp Off) 15L             |
-| Degreaser    |Houghto-Clean 802SM (mineral/solvent based) 20L              |
+| Degreaser      |Houghto-Clean 802SM (mineral/solvent based) 20L            |
 +----------------+-----------------------------------------------------------+
 | Release Agent  |Water Soluble Mould Release Oil convenient sizes           |
 +----------------+-----------------------------------------------------------+
 | Cleaner        |Citra Force                                                |
-| Degreaser    |Aerosols spray packs and bulk refills 1L 5L 20L              |
+| Degreaser      |Aerosols spray packs and bulk refills 1L 5L 20L            |
 +----------------+-----------------------------------------------------------+
 | Equipement     |Pumps, Pipe & Hoses                                        |
 |		 |Oil containers                                             |
