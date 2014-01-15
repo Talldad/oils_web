@@ -40,20 +40,21 @@ Safety_
 Water Treatment_
 =======================  =================   ===============  ============
 
-.. _`Heavy Diesel`:
-.. _Passenger:
-.. _Hydraulic:
-.. _Grease:
-.. _`Industrial`:
-.. _`Rust Prevention`:
-.. _Anti-Corrosion:
-.. _Solvents:
+.. _`Heavy Diesel`: /heavy_diesel.html
+.. _Passenger: /passenger.html
+.. _`Hydraulic Oil`: /hydraulic.html
+.. _Grease: /grease.html
+.. _Agriculture: /agriculture.html
+.. _Industrial: /industrial.html
+.. _`Rust Prevention`: /corrosion.html
+.. _Anti-Corrosion: /corrosion.html
+.. _Solvents: /solvents.html
 .. _Degreasers:
 .. _`Hand Cleaners`:
 .. _Safety:
 .. _`Water Treatment`:
 .. _`PDS and MSDS`:
-.. _`Selection Guides`:
+.. _`Selection Guides`:/selection_guides.html
 .. _`Request Login`:
 .. _Enquiry:
 .. _`Place an Order`:
@@ -61,4 +62,4 @@ Water Treatment_
 .. _Address:
 .. _Phone:
 .. _Fax:
-.. _Legal:
+.. _Legal: /legal.html
